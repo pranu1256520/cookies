@@ -1,6 +1,6 @@
 # 🍪 E-Commerce Cookie Selling Website
 
-An e-commerce web application designed for cookie enthusiasts to browse and purchase a variety of cookies. This project utilizes HTML, **CSS, and **JavaScript to create a responsive and user-friendly platform for cookie lovers.
+An e-commerce web application designed for cookie enthusiasts to browse and purchase a variety of cookies. This project utilizes HTML, CSS, and JavaScript to create a responsive and user-friendly platform for cookie lovers.
 
 ## 📑 Table of Contents
 
