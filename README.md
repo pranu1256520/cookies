@@ -94,7 +94,7 @@ We would love to hear from you! Feel free to reach out for collaborations, queri
     </td>
     <td>
       <a href="https://www.linkedin.com/in/tarungowdabs/" target="_blank" style="text-decoration: none; color: black; font-weight: bold;">
-        Tarun Gowda B S
+        Tarun Gowda <br> B S
       </a>
     </td>
   </tr>
